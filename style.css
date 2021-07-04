@@ -15,13 +15,12 @@ body{
     border: 1px solid white;
     padding: 13px;
     color: white;
-    
     text-decoration: none;
 }
 #padding{
     padding-bottom: 50px;
 }
-a:hover {
+#read-more:hover {
     background-color: gray;
 }
 .first-section{
@@ -46,4 +45,70 @@ a:hover {
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
 }
-
+.more-informations{
+    max-height: 100%;
+    max-width: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+.para-center{
+    text-align: center;
+}
+.flexible-container-two{
+    display:flex;
+    background-color: #333333;
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+.part-three{
+    background-color: gainsboro;
+    border: 2px solid black;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin: 15px;
+    box-shadow: 10px 10px 40px gray;
+    width: 33%;
+    line-height: 1.5;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+}
+.part-four{
+    background-color: hsl(0, 0%, 100%);
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+}
+.flexible-container-three{
+    display: flex;
+}
+.flexible{
+    text-align: center;
+    width: 50%;
+    padding: 40px;
+}
+.flexible-one{
+    background-color: #2690D4;
+    color: white;
+    text-align: center;
+}
+.flexible-two{
+    background-color: #333333;
+    color: white;
+}
+#remove-decoration{
+    text-decoration: none;
+}
+.last-part{
+    background-color: black;
+    display: flex;
+    color: white;
+}
+.last-one{
+    text-align: center;
+    width: 50%;
+}
+.last-two{
+    text-align: center;
+    width: 50%;
+}
