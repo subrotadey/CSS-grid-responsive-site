@@ -91,10 +91,13 @@ body{
     background-color: #2690D4;
     color: white;
     text-align: center;
+    width: 50%;
 }
 .flexible-two{
     background-color: #333333;
     color: white;
+    text-align: center;
+    width: 50%;
 }
 #remove-decoration{
     text-decoration: none;
