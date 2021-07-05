@@ -82,22 +82,20 @@ body{
 .flexible-container-three{
     display: flex;
 }
-.flexible{
-    text-align: center;
-    width: 50%;
-    padding: 40px;
-}
+
 .flexible-one{
     background-color: #2690D4;
     color: white;
     text-align: center;
     width: 50%;
+    padding: 40px;
 }
 .flexible-two{
     background-color: #333333;
     color: white;
     text-align: center;
     width: 50%;
+    padding: 40px;
 }
 #remove-decoration{
     text-decoration: none;
